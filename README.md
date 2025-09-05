@@ -6,19 +6,15 @@ Aspiring full-stack engineer passionate about building tools that improve how pe
 
 ## 🧑‍💻 About Me
 
-- 🇺🇸 Based in the U.S., studying Computer Science at the University of Chicago
-- 💻 Full-stack developer with startup experience in EdTech and curriculum platforms
-- ⚙️ Passionate about building systems that help people learn, connect, and grow
-- 📊 Background in education, AI tooling, and data visualization
-- 🚀 Led platform engineering at BrightBoost and contributed to multiple product launches
-- 🧠 Curious about scale, product thinking, and systems design
-- 🌱 Always learning — from curriculum design to DevOps pipelines
+- Living in Chicago, getting 2°
+- Love playing soccer and watching it (Liverpool)
+- 
 
 ---
 
 ## 🥞 Tech Stack
 
-### 💬 Programming Languages  
+### Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -27,7 +23,7 @@ Aspiring full-stack engineer passionate about building tools that improve how pe
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🌐 Frameworks & Libraries  
+### Frameworks & Libraries  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
@@ -36,15 +32,15 @@ Aspiring full-stack engineer passionate about building tools that improve how pe
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
-### ☁️ Cloud & DevOps  
+### Cloud & DevOps  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### 📱 Tools & IDEs  
+### Tools & IDEs  
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![Android Stu]()
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Storyboard](https://img.shields.io/badge/Storyboard-FA7343?style=for-the-badge&logo=apple&logoColor=white)
 
 
 ## Projects
