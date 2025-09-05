@@ -77,8 +77,11 @@ Each pair is interactively updated via a toggle button. Users are invited to exp
 
 ![Data Viz Snippet](./assets/dataviz_snippet.gif)
 
-### iOS Projects — [More Info (Private Repo)]()  
+### iOS Projects — [(Private Repo)]()  
 
+#### Demo Preview
+
+![iOS Git Issues Snippet](./assets/iosgitissue_snippet.gif)
 
 ---
 
