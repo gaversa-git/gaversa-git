@@ -50,10 +50,10 @@ Aspiring full-stack engineer passionate about building tools that improve how pe
 BrightBoost is a gamified web app for teachers and students to share lessons, track activities, and encourage engagement. Built with React, TypeScript, and Tailwind, the app uses AWS Lambda for its backend and Aurora PostgreSQL for persistent lesson and user data.
 Role-based flows, JWT auth, and Cypress-tested features ensure a robust classroom-ready experience.
 
-### [ConnectEd (Private Repo)]() — Lead Developer  
+### ConnectEd [(Private Repo)]() — Lead Developer  
 Social and emotional wellness and companion app to KindEd curriculum. Mobile app featuring daily check-in behavior logging, family/teacher connectivity, and chat features.
 
-### [AVD JavaScript Data Visualizations (Private Repo)]()  
+### AVD JavaScript Data Visualizations [(Private Repo)]()  
 
 This project explores how certain data visualizations succeed—or fail—depending on changes in the **data** or its **representation**, following the framework of [Algebraic Vis Design (Kindlmann 2014)]((https://pubmed.ncbi.nlm.nih.gov/26356932/)). Each demo features a visual pair (VisLeft vs VisRight) highlighting a particular failure mode:
 
@@ -63,7 +63,7 @@ This project explores how certain data visualizations succeed—or fail—depend
 
 Each pair is interactively updated via a toggle button. Users are invited to explore how seemingly minor shifts in data or design can significantly affect what we see—and what we miss.
 
-📁 Built with D3.js, custom data preprocessing in Pandas/Python, and manual visual diagnostics. All code is modularized across `partA.js`, `partB.js`, and `partC.js`.
+🏗️ Built with D3.js, custom data preprocessing in Pandas/Python, and manual visual diagnostics. All code is modularized across `partA.js`, `partB.js`, and `partC.js`.
 
 #### Demo Preview
 
@@ -71,7 +71,8 @@ Each pair is interactively updated via a toggle button. Users are invited to exp
 
 ### [SoccerBot](https://github.com/Intro-Robotics-UChicago-Spring-2024/final_project_soccer_bot.git) — Vision-Based Behavioral Cloning for Goal-Scoring
 SoccerBot is a vision-based robot control system that learns to score goals using behavioral cloning. Trained on expert demonstrations (teleop runs), the robot predicts linear and angular velocities directly from its camera feed — no LiDAR, localization, or classical planning required.
-Built with PyTorch, ROS, and ResNet, the project showcases end-to-end imitation learning from raw images to real-world actions, including a learned "stop-at-goal" mechanism using cosine image similarity.
+
+🏗️ Built with PyTorch, ROS, and ResNet, the project showcases end-to-end imitation learning from raw images to real-world actions, including a learned "stop-at-goal" mechanism using cosine image similarity.
 
 #### Demo Preview
 ![Soccer Bot Image](./assets/soccerbot_image.png)
