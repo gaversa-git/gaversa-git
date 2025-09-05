@@ -53,6 +53,14 @@ Role-based flows, JWT auth, and Cypress-tested features ensure a robust classroo
 ### ConnectEd [(Private Repo)]() — Lead Developer  
 Social and emotional wellness and companion app to KindEd curriculum. Mobile app featuring daily check-in behavior logging, family/teacher connectivity, and chat features.
 
+### [SoccerBot](https://github.com/Intro-Robotics-UChicago-Spring-2024/final_project_soccer_bot.git) — Vision-Based Behavioral Cloning for Goal-Scoring
+SoccerBot is a vision-based robot control system that learns to score goals using behavioral cloning. Trained on expert demonstrations (teleop runs), the robot predicts linear and angular velocities directly from its camera feed — no LiDAR, localization, or classical planning required.
+
+🏗️ Built with PyTorch, ROS, and ResNet, the project showcases end-to-end imitation learning from raw images to real-world actions, including a learned "stop-at-goal" mechanism using cosine image similarity.
+
+#### Demo Preview
+![Soccer Bot Image](./assets/soccerbot_image.png)
+
 ### AVD JavaScript Data Visualizations [(Private Repo)]()  
 
 This project explores how certain data visualizations succeed—or fail—depending on changes in the **data** or its **representation**, following the framework of [Algebraic Vis Design (Kindlmann 2014)]((https://pubmed.ncbi.nlm.nih.gov/26356932/)). Each demo features a visual pair (VisLeft vs VisRight) highlighting a particular failure mode:
@@ -68,14 +76,6 @@ Each pair is interactively updated via a toggle button. Users are invited to exp
 #### Demo Preview
 
 ![Data Viz Snippet](./assets/dataviz_snippet.gif)
-
-### [SoccerBot](https://github.com/Intro-Robotics-UChicago-Spring-2024/final_project_soccer_bot.git) — Vision-Based Behavioral Cloning for Goal-Scoring
-SoccerBot is a vision-based robot control system that learns to score goals using behavioral cloning. Trained on expert demonstrations (teleop runs), the robot predicts linear and angular velocities directly from its camera feed — no LiDAR, localization, or classical planning required.
-
-🏗️ Built with PyTorch, ROS, and ResNet, the project showcases end-to-end imitation learning from raw images to real-world actions, including a learned "stop-at-goal" mechanism using cosine image similarity.
-
-#### Demo Preview
-![Soccer Bot Image](./assets/soccerbot_image.png)
 
 ### iOS Projects — [More Info (Private Repo)]()  
 
