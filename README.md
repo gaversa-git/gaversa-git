@@ -6,7 +6,7 @@ Aspiring full-stack engineer passionate about building tools that improve how pe
 
 ## 🧑‍💻 About Me
 
-- Living in Chicago, getting 2°
+- Living in Chicago, getting 2 degrees in 2° weather
 - Love playing soccer and watching it (Liverpool)
 
 ---
@@ -50,14 +50,14 @@ Full-stack app supporting 6–10th grade teachers with lesson planning, real-tim
 - Azure Static Web App deployment with CI/CD + managed API  
 - Real-time sockets, CSV/Excel exports, authentication  
 
-### KindEd (Private Repo) — Curriculum + EdTech Development  
-Helped design & deploy iPad-based wellness tools used by middle schoolers in NYC. Led curriculum development and teacher onboarding across semesters.
+### ConnectEd (Private Repo) — Lead Developer  
+Social and emotional wellness and companion app to KindEd curriculum. Mobile app featuring daily check-in behavior logging, family/teacher connectivity, and chat features.
 
 ### Data Visualization Projects (CMSC 23900) — [More Info (Private Repo)]()  
-Built interactive D3 visualizations from public datasets:
+Built interactive D3 visualizations from public datasets in JavaScript:
 - Florence Nightingale rose diagram recreation  
 - Hex-map of U.S. presidential elections  
-- Slopes, bars, dot plots & more  
+- Soccer player statistics  
 
 ### Robotics & Embedded Systems (CMSC 23010) — [More Info (Private Repo)]()  
 
