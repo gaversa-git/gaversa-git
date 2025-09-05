@@ -81,7 +81,7 @@ Each pair is interactively updated via a toggle button. Users are invited to exp
 
 #### Demo Preview
 
-![iOS Git Issues Snippet](./assets/iosgitissue_snippet.gif)
+![iOS Git Issues Snippet](./assets/iosgitissues_snippet.gif)
 
 ---
 
