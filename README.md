@@ -68,7 +68,7 @@ Each pair is interactively updated via a toggle button. Users are invited to exp
 
 ### 🎥 Demo Preview
 
-![AVD Demo GIF](./media/avd_demo.gif)
+![Snippet](./assets/dataviz_snippet.gif)
 
 ### Robotics & Embedded Systems (CMSC 23010) — [More Info (Private Repo)]()  
 
