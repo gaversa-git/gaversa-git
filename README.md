@@ -49,10 +49,10 @@ Aspiring full-stack engineer passionate about building tools that improve how pe
 ### [BrightBoost](https://github.com/Bright-Bots-Initiative/brightboost) — Team Lead Developer  
 
 
-### ConnectEd (Private Repo) — Lead Developer  
+### [ConnectEd (Private Repo)]() — Lead Developer  
 Social and emotional wellness and companion app to KindEd curriculum. Mobile app featuring daily check-in behavior logging, family/teacher connectivity, and chat features.
 
-### Data Visualization — [More Info (Private Repo)]()  
+### [Data Visualization (Private Repo)]()  
 
 This project explores how certain data visualizations succeed—or fail—depending on changes in the **data** or its **representation**, following the framework of [Algebraic Vis Design (Kindlmann 2014)]((https://pubmed.ncbi.nlm.nih.gov/26356932/)). Each demo features a visual pair (VisLeft vs VisRight) highlighting a particular failure mode:
 
