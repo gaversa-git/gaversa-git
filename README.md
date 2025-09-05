@@ -4,24 +4,48 @@ Aspiring full-stack engineer passionate about building tools that improve how pe
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
-- Computer Science @ University of Chicago  
-- Previous: Co-founder @ BrightBoost (EdTech), Curriculum Dev @ KindEd  
-- Focus: React, TypeScript, Python, Node, data visualization, AI/LLM workflows  
-- Interests: Product thinking, learning interfaces, human-centered systems  
-- Seeking: Full-stack SWE roles at mission-driven companies scaling to large user bases
-
----
-
-## Tech Stack
-
-**Languages:** TypeScript, Python, JavaScript, HTML/CSS, Swift, C++  
-**Frontend:** React, Next.js, D3.js, Tailwind, Framer Motion  
-**Backend:** Node.js, Express, Flask, SQLite, PostgreSQL, Supabase, Azure Functions  
-**Tools:** GitHub Actions, Vercel, Figma, Blender, Jupyter, Firebase
+- 🇺🇸 Based in the U.S., studying Computer Science at the University of Chicago
+- 💻 Full-stack developer with startup experience in EdTech and curriculum platforms
+- ⚙️ Passionate about building systems that help people learn, connect, and grow
+- 📊 Background in education, AI tooling, and data visualization
+- 🚀 Led platform engineering at BrightBoost and contributed to multiple product launches
+- 🧠 Curious about scale, product thinking, and systems design
+- 🌱 Always learning — from curriculum design to DevOps pipelines
 
 ---
+
+## 🥞 Tech Stack
+
+### 💬 Programming Languages  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Frameworks & Libraries  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+
+### ☁️ Cloud & DevOps  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### 📱 Tools & IDEs  
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Android Stu]()
+
 
 ## Projects
 
@@ -50,9 +74,7 @@ Swift app that tracks personal wellness metrics and visualizes trends over time.
 
 ## Coming Soon
 
-- Personal AI tutoring tools (LLM backend)  
-- BrightBoost mobile companion  
-- Visual portfolio browser for all visualizations
+- Operating 
 
 ---
 
