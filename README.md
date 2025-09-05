@@ -58,6 +58,6 @@ Swift app that tracks personal wellness metrics and visualizes trends over time.
 
 ## How to Reach Me
 
-[Email](mailto:giorgioaversa3@gmail.com) • [LinkedIn](www.linkedin.com/in/giorgio-aversa-669661287)
+[Email](mailto:giorgioaversa3@gmail.com) • [LinkedIn](https://www.linkedin.com/in/giorgio-aversa-669661287)
 
 > Some repos are private due to academic or company policies. Summaries and demo content available on request.
