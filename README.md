@@ -47,17 +47,14 @@ Aspiring full-stack engineer passionate about building tools that improve how pe
 ## Projects
 
 ### [BrightBoost](https://github.com/Bright-Bots-Initiative/brightboost) — Team Lead Developer  
-Full-stack app supporting 6–10th grade teachers with lesson planning, real-time student feedback, and grade exports. Includes:
-- TypeScript + React dashboards for teachers & students  
-- Azure Static Web App deployment with CI/CD + managed API  
-- Real-time sockets, CSV/Excel exports, authentication  
+
 
 ### ConnectEd (Private Repo) — Lead Developer  
 Social and emotional wellness and companion app to KindEd curriculum. Mobile app featuring daily check-in behavior logging, family/teacher connectivity, and chat features.
 
-### Data Visualization Project — [More Info (Private Repo)]()  
+### Data Visualization — [More Info (Private Repo)]()  
 
-This project explores how certain data visualizations succeed—or fail—depending on changes in the **data** or its **representation**, following the framework of [Algebraic Vis Design (Kindlmann 2014)](http://people.cs.uchicago.edu/~glk/class/datavis/lit/#Kindlmann-AlgebraicVis-2014). Each demo features a visual pair (VisLeft vs VisRight) highlighting a particular failure mode:
+This project explores how certain data visualizations succeed—or fail—depending on changes in the **data** or its **representation**, following the framework of [Algebraic Vis Design (Kindlmann 2014)]((https://pubmed.ncbi.nlm.nih.gov/26356932/)). Each demo features a visual pair (VisLeft vs VisRight) highlighting a particular failure mode:
 
 - **Hallucinator:** Superficial data ordering alters perceived insights
 - **Confuser:** Meaningful changes are hidden or ambiguous
@@ -65,7 +62,7 @@ This project explores how certain data visualizations succeed—or fail—depend
 
 Each pair is interactively updated via a toggle button. Users are invited to explore how seemingly minor shifts in data or design can significantly affect what we see—and what we miss.
 
-📁 Built with D3.js, custom data preprocessing, and manual visual diagnostics. All code is modularized across `partA.js`, `partB.js`, and `partC.js`.
+📁 Built with D3.js, custom data preprocessing in Pandas/Python, and manual visual diagnostics. All code is modularized across `partA.js`, `partB.js`, and `partC.js`.
 
 ---
 
