@@ -87,7 +87,7 @@ Each pair is interactively updated via a toggle button. Users are invited to exp
 
 ## Coming Soon
 
-- Operating Systems Coursework 👀
+- Working on: Operating Systems, Big Data Projects 
 
 ---
 
