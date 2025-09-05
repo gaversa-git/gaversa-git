@@ -25,7 +25,7 @@ Aspiring full-stack engineer passionate about building tools that improve how pe
 
 ## Projects
 
-### [BrightBoost](https://brightboost.ai) — Co-Founder, Lead Developer  
+### [BrightBoost](https://github.com/Bright-Bots-Initiative/brightboost) — Team Lead Developer  
 Full-stack app supporting 6–10th grade teachers with lesson planning, real-time student feedback, and grade exports. Includes:
 - TypeScript + React dashboards for teachers & students  
 - Azure Static Web App deployment with CI/CD + managed API  
@@ -58,6 +58,6 @@ Swift app that tracks personal wellness metrics and visualizes trends over time.
 
 ## How to Reach Me
 
-[Email](mailto:giorgioaversa@uchicago.edu) • [LinkedIn](https://www.linkedin.com/in/giorgioaversa/)
+[Email](mailto:giorgioaversa3@gmail.com) • [LinkedIn](www.linkedin.com/in/giorgio-aversa-669661287)
 
 > Some repos are private due to academic or company policies. Summaries and demo content available on request.
