@@ -64,7 +64,7 @@ Each pair is interactively updated via a toggle button. Users are invited to exp
 
 📁 Built with D3.js, custom data preprocessing in Pandas/Python, and manual visual diagnostics. All code is modularized across `partA.js`, `partB.js`, and `partC.js`.
 
-#### 🎥 Demo Preview
+#### Demo Preview
 
 ![Snippet](./assets/dataviz_snippet.gif)
 
@@ -78,7 +78,7 @@ Each pair is interactively updated via a toggle button. Users are invited to exp
 
 ## Coming Soon
 
-- Operating Systems
+- Operating Systems Coursework 👀
 
 ---
 
