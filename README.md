@@ -8,7 +8,6 @@ Aspiring full-stack engineer passionate about building tools that improve how pe
 
 - Living in Chicago, getting 2°
 - Love playing soccer and watching it (Liverpool)
-- 
 
 ---
 
@@ -61,10 +60,10 @@ Built interactive D3 visualizations from public datasets:
 - Slopes, bars, dot plots & more  
 
 ### Robotics & Embedded Systems (CMSC 23010) — [More Info (Private Repo)]()  
-Programmed autonomous behaviors on Arduino-based robots, including obstacle navigation and line following.
+
 
 ### iOS Final Project (CMSC 12100) — [More Info (Private Repo)]()  
-Swift app that tracks personal wellness metrics and visualizes trends over time. Uses Core Data + Charts.
+
 
 ---
 
