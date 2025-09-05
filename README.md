@@ -7,7 +7,9 @@ Aspiring full-stack engineer passionate about building tools that improve how pe
 ## 🧑‍💻 About Me
 
 - Living in Chicago, getting 2 degrees in 2° weather
-- Love playing soccer and watching it (Liverpool)
+- Hobbies: Life long love of playing soccer and watching it (Liverpool), skiing, reading (fantasy!), and gaming
+- Currently Learning: Spark, Kafka, and all about Big Data
+- Outside of CS I enjoy studying philosophy, history, and language learning (한글)
 
 ---
 
@@ -53,23 +55,35 @@ Full-stack app supporting 6–10th grade teachers with lesson planning, real-tim
 ### ConnectEd (Private Repo) — Lead Developer  
 Social and emotional wellness and companion app to KindEd curriculum. Mobile app featuring daily check-in behavior logging, family/teacher connectivity, and chat features.
 
-### Data Visualization Projects (CMSC 23900) — [More Info (Private Repo)]()  
-Built interactive D3 visualizations from public datasets in JavaScript:
-- Florence Nightingale rose diagram recreation  
-- Hex-map of U.S. presidential elections  
-- Soccer player statistics  
+### Data Visualization Project — [More Info (Private Repo)]()  
+
+This project explores how certain data visualizations succeed—or fail—depending on changes in the **data** or its **representation**, following the framework of [Algebraic Vis Design (Kindlmann 2014)](http://people.cs.uchicago.edu/~glk/class/datavis/lit/#Kindlmann-AlgebraicVis-2014). Each demo features a visual pair (VisLeft vs VisRight) highlighting a particular failure mode:
+
+- **Hallucinator:** Superficial data ordering alters perceived insights
+- **Confuser:** Meaningful changes are hidden or ambiguous
+- **Misleader/Jumbler:** Changes misalign with visual interpretation
+
+Each pair is interactively updated via a toggle button. Users are invited to explore how seemingly minor shifts in data or design can significantly affect what we see—and what we miss.
+
+📁 Built with D3.js, custom data preprocessing, and manual visual diagnostics. All code is modularized across `partA.js`, `partB.js`, and `partC.js`.
+
+---
+
+### 🎥 Demo Preview
+
+![AVD Demo GIF](./media/avd_demo.gif)
 
 ### Robotics & Embedded Systems (CMSC 23010) — [More Info (Private Repo)]()  
 
 
-### iOS Final Project (CMSC 12100) — [More Info (Private Repo)]()  
+### iOS Final Project — [More Info (Private Repo)]()  
 
 
 ---
 
 ## Coming Soon
 
-- Operating 
+- Operating Systems
 
 ---
 
