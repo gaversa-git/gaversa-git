@@ -50,6 +50,11 @@ Aspiring full-stack engineer passionate about building tools that improve how pe
 BrightBoost is a gamified web app for teachers and students to share lessons, track activities, and encourage engagement. Built with React, TypeScript, and Tailwind, the app uses AWS Lambda for its backend and Aurora PostgreSQL for persistent lesson and user data.
 Role-based flows, JWT auth, and Cypress-tested features ensure a robust classroom-ready experience.
 
+### KindEd Digital Curriculum [(Private Repo)]() — Lead Developer  
+KindEd Digital Curriculum is a full-stack web platform for delivering AI and social media literacy lessons to middle and high school students. It gives teachers a browser-based dashboard to run “live lessons” from PDF curriculum, while students follow along in real time on their own devices.
+
+As a lead developer, I helped write and grow the codebase from a single-developer Django alpha into a full fledged 8 developer team, shipping a three-phase MVP on a Django/PostgreSQL stack and refining it for production pilots with partner schools.
+
 ### ConnectEd [(Private Repo)]() — Lead Developer  
 Social and emotional wellness and companion app to KindEd curriculum. Mobile app featuring daily check-in behavior logging, family/teacher connectivity, and chat features.
 
